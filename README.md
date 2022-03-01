@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Alexandre Perreault** (**@EpsilonsQc**)
 - 👀 I’m interested in games development
 - 🌱 I’m currently learning C++ (Unreal Engine) and C# (Unity)
-- 💞️ I’m looking to collaborate on videogames related projects.
+- 💞️ I’m looking to collaborate on videogames programming related projects.
 - ✨ You can reach me on Discord : **Epsilons#7280**
 
 <!---
