@@ -1,8 +1,8 @@
-- 👋 Hi, I’m **Alexandre Perreault** (**@EpsilonsQc**)
+- :fleur_de_lis: Hi, I’m **Alexandre Perreault** (**@EpsilonsQc**)
 - :crossed_swords: I’m interested in games development
 - :electron: I’m currently learning C++ (Unreal Engine) and C# (Unity)
 - :video_game: I’m looking to collaborate on videogames programming related projects.
-- :trident: You can reach me on Discord : **Epsilons#7280**
+- :purple_circle: You can reach me on Discord : **Epsilons#7280**
 - :page_with_curl: You can also find me on my [GitHub Pages](https://www.epsilonsqc.github.io)
 
 <!---
